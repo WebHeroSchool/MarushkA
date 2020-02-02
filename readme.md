@@ -1,1 +1,1 @@
-It a testing GitHub. I'm learning make branch.
+It is testing GitHub. I'm learning make branch.
